@@ -153,6 +153,10 @@ if a=="381vfn"then
 _G.f=true
 else
 end
+if a=="hhhh"then
+_G.f=true
+else
+end
 if _G.f==true then
     local CoreGui = game:GetService("StarterGui")
 
