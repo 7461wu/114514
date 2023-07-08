@@ -141,6 +141,10 @@ if a=="gfzzmns"then
 _G.f=true
 else
 end
+if a=="15_26417"then
+_G.f=true
+else
+end
 if _G.f==true then
     local CoreGui = game:GetService("StarterGui")
 
