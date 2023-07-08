@@ -15,7 +15,7 @@ local function AntiAFK()
     end);
 end;
 AntiAFK();
-notify("浮光掠影", "╭∩╮😠╭∩╮",10)
+notify("红脚本", "╭∩╮😠╭∩╮",10)
 notify('反挂机', '反挂机已开启', 4) 
 
 	local function callback(Text)
@@ -95,7 +95,7 @@ until amountoftimes == 10
 	   NotificationBindable.OnInvoke = callback
 	   --
 	   game.StarterGui:SetCore("SendNotification",  {
-		Title = "浮光掠影";
+		Title = "红脚本";
 		Text = "是否加入最小服务器";
 		Icon = "";
 		Duration = 5;
@@ -113,263 +113,15 @@ CoreGui:SetCore("SendNotification", {
 })
 
 local a=tostring(game.Players.LocalPlayer.Character);
-if a=="xux606"then
+if a=="Move_C"then
 _G.f=true
 else
 end
-if a=="abcd_3efg"then
+if a=="fasjsjssjxj"then
 _G.f=true
 else
 end
-if a=="qqqqzck3"then
-_G.f=true
-else
-end
-if a=="kwawkzwkk"then
-_G.f=true
-else
-end
-if a=="tzk6380yy"then
-_G.f=true
-else
-end
-if a=="wfhiwadsa"then
-_G.f=true
-else
-end
-if a=="jshm_123"then
-_G.f=true
-else
-end
-if a=="fjjfie2_4"then
-_G.f=true
-else
-end
-if a=="drfsfxw"then
-_G.f=true
-else
-end
-if a=="fuyi8888"then
-_G.f=true
-else
-end
-if a=="yzsdqwerty"then
-_G.f=true
-else
-end
-if a=="fishmmlp"then
-_G.f=true
-else
-end
-if a=="qwe123456eep"then
-_G.f=true
-else
-end
-if a=="saiteyyds"then
-_G.f=true
-else
-end
-if a=="Sessionpeek"then
-_G.f=true
-else
-end
-if a=="CH_Ljd"then
-_G.f=true
-else
-end
-if a=="heomloi"then
-_G.f=true
-else
-end
-if a=="iqcnmbj"then
-_G.f=true
-else
-end
-if a=="ghjkjjjjddfsfsa"then
-_G.f=true
-else
-end
-if a=="supermarket222311"then
-_G.f=true
-else
-end
-if a=="sojxie6666"then
-_G.f=true
-else
-end
-if a=="Zsjcb1005"then
-_G.f=true
-else
-end
-if a=="ikun8574"then
-_G.f=true
-else
-end
-if a=="maui544"then
-_G.f=true
-else
-end
-if a=="ttfuuffn"then
-_G.f=true
-else
-end
-if a=="mibagie"then
-_G.f=true
-else
-end
-if a=="ddgyf2020"then
-_G.f=true
-else
-end
-if a=="kkoo10989"then
-_G.f=true
-else
-end
-if a=="baoanke"then
-_G.f=true
-else
-end
-if a=="kongbai_2003"then
-_G.f=true
-else
-end
-if a=="sqianmeng"then
-_G.f=true
-else
-end
-if a=="gfzzmns"then
-_G.f=true
-else
-end
-if a=="kchjxzhfhzhh"then
-_G.f=true
-else
-end
-if a=="gfzzmns"then
-_G.f=true
-else
-end
-if a=="wzy114514com"then
-_G.f=true
-else
-end
-if a=="wszgrpoa"then
-_G.f=true
-else
-end
-if a=="sojxie666"then
-_G.f=true
-else
-end
-if a=="123sjkkYRQ"then
-_G.f=true
-else
-end
-if a=="kongbai_2003"then
-_G.f=true
-else
-end
-if a=="xiaoxialailehaoba"then
-_G.f=true
-else
-end
-if a=="4v5n7n"then
-_G.f=true
-else
-end
-if a=="taojinha"then
-_G.f=true
-else
-end
-if a=="kevenfu123"then
-_G.f=true
-else
-end
-if a=="CH_Ljd"then
-_G.f=true
-else
-end
-if a=="asfiagfOFGYU"then
-_G.f=true
-else
-end
-if a=="haihaitnnd"then
-_G.f=true
-else
-end
-if a=="CwxiiiX"then
-_G.f=true
-else
-end
-if a=="qazqwedgh"then
-_G.f=true
-else
-end
-if a=="CH_LJd1"then
-_G.f=true
-else
-end
-if a=="asfiagfOFGYU"then
-_G.f=true
-else
-end
-if a=="wosjsisos"then
-_G.f=true
-else
-end
-if a=="687fp"then
-_G.f=true
-else
-end
-if a=="edududufjff"then
-_G.f=true
-else
-end
-if a=="xzxljt"then
-_G.f=true
-else
-end
-if a=="wszgr118"then
-_G.f=true
-else
-end
-if a=="zhanganyu"then
-_G.f=true
-else
-end
-if a=="opo_awa"then
-_G.f=true
-else
-end
-if a=="dtydtysb"then
-_G.f=true
-else
-end
-if a=="wcnmsbxxsj"then
-_G.f=true
-else
-end
-if a=="yyds2211564626"then
-_G.f=true
-else
-end
-if a=="CHIThshs"then
-_G.f=true
-else
-end
-if a=="ghtdfjc"then
-_G.f=true
-else
-end
-if a=="ruoyueru"then
-_G.f=true
-else
-end
-if a=="CN_zangxianhui"then
-_G.f=true
-else
-end
-if a=="nimabdelbd"then
+if a=="zhangganyu"then
 _G.f=true
 else
 end
@@ -385,18 +137,9 @@ CoreGui:SetCore("SendNotification", {
 if game.PlaceId == 13822889 then -- 伐木大亨
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jihuyydss/1-/main/%E5%8A%A0%E5%AF%86%E6%BA%90%E7%A0%81.lua"))()
 end
-if game.PlaceId == 2619187362 then -- 力量格斗
-loadstring(game:HttpGetAsync("https://pastebin.com/raw/cm5aNRxF"))()
-end
-if game.PlaceId == 3956818381 then -- 忍者传奇
-loadstring(game:HttpGetAsync("https://pastebin.com/raw/NrsjgrRT"))()
-end
-if game.PlaceId == 537413528 then -- 造船寻宝
-loadstring(game:HttpGetAsync("https://pastebin.com/raw/a6VPH4xS"))()
-end
   --你的脚本
     else --验证失败执行↓
-setclipboard("827956094")
+setclipboard("811468839")
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
