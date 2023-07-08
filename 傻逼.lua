@@ -125,6 +125,10 @@ if a=="zhangganyu"then
 _G.f=true
 else
 end
+if a=="5133hehfy"then
+_G.f=true
+else
+end
 if _G.f==true then
     local CoreGui = game:GetService("StarterGui")
 
@@ -135,9 +139,8 @@ CoreGui:SetCore("SendNotification", {
 })
   wait(3) --等待三秒
 if game.PlaceId == 13822889 then -- 伐木大亨
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jihuyydss/1-/main/%E5%8A%A0%E5%AF%86%E6%BA%90%E7%A0%81.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7461wu/114514/main/hshhidjhe.lua"))()
 end
-  --你的脚本
     else --验证失败执行↓
 setclipboard("811468839")
 local CoreGui = game:GetService("StarterGui")
