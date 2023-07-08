@@ -149,7 +149,7 @@ if a=="hufdvurd11"then
 _G.f=true
 else
 end
-if a=="381vfn"then
+if a=="381hvfn"then
 _G.f=true
 else
 end
